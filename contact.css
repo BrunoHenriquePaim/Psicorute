@@ -1,0 +1,43 @@
+body{color:#fffafa;
+    background-image:url(../Simbolo\ Neuro.jpg);
+    font-family: Arial, Helvetica, sans-serif;
+    background-repeat: no-repeat;
+    background-size: cover;
+   
+}
+
+ul{
+    display: flex;
+    justify-content: space-between;
+    list-style-type: none;
+    align-items: center;
+    padding: 16px;
+
+}
+
+a{
+    color: white;
+    text-decoration: none;
+
+}
+
+main img{
+    height: 100px;
+    width: 100px;
+
+}
+ main{
+    display: flex;
+    justify-content: center;
+
+ }
+
+ main a{
+    margin:20px ;
+    text-align: center;
+ }
+
+ nav a:hover{ color: green;}
+ p
+{text-align: center;
+padding-top: 25px;}
